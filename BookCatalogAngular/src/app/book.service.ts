@@ -32,5 +32,5 @@ export class BookService {
   deleteBook(id:number){
     return this.httpClient.delete("http://localhost:8000/api/Books/" + id)
   }
-  // http://localhost:5169/api/ToDo/Delete/5
+  
 }
