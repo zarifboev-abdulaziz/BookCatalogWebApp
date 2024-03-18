@@ -1,4 +1,4 @@
-This application was developed for Web Application module, as coursework portfolio project @ WIUT by student ID: 00011224
+This application was developed for Web Application module, as coursework portfolio project @ WIUT by student ID: 00011224.
 My student id is 00011224. we divide it by 20 and remainder is 4. 4th topic in the given list is Book Catalog.
 
 # Book Catalog Backend
